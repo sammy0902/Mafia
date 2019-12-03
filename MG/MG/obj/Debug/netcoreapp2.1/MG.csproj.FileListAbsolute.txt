@@ -1,0 +1,14 @@
+C:\Users\802393\source\repos\MG\MG\bin\Debug\netcoreapp2.1\MG.deps.json
+C:\Users\802393\source\repos\MG\MG\bin\Debug\netcoreapp2.1\MG.runtimeconfig.json
+C:\Users\802393\source\repos\MG\MG\bin\Debug\netcoreapp2.1\MG.runtimeconfig.dev.json
+C:\Users\802393\source\repos\MG\MG\bin\Debug\netcoreapp2.1\MG.dll
+C:\Users\802393\source\repos\MG\MG\bin\Debug\netcoreapp2.1\MG.pdb
+C:\Users\802393\source\repos\MG\MG\obj\Debug\netcoreapp2.1\MG.csprojAssemblyReference.cache
+C:\Users\802393\source\repos\MG\MG\obj\Debug\netcoreapp2.1\MG.csproj.CoreCompileInputs.cache
+C:\Users\802393\source\repos\MG\MG\obj\Debug\netcoreapp2.1\MG.RazorAssemblyInfo.cache
+C:\Users\802393\source\repos\MG\MG\obj\Debug\netcoreapp2.1\MG.RazorAssemblyInfo.cs
+C:\Users\802393\source\repos\MG\MG\obj\Debug\netcoreapp2.1\MG.AssemblyInfoInputs.cache
+C:\Users\802393\source\repos\MG\MG\obj\Debug\netcoreapp2.1\MG.AssemblyInfo.cs
+C:\Users\802393\source\repos\MG\MG\obj\Debug\netcoreapp2.1\MG.RazorTargetAssemblyInfo.cache
+C:\Users\802393\source\repos\MG\MG\obj\Debug\netcoreapp2.1\MG.dll
+C:\Users\802393\source\repos\MG\MG\obj\Debug\netcoreapp2.1\MG.pdb
